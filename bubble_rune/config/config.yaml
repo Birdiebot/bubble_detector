@@ -1,0 +1,12 @@
+Visual:
+  ros__parameters:
+    morphologyexIter: 1
+    debug_mode: true
+    grayThres: 60
+
+    lowerCircleStrip: 40
+    lowerHammerStrip: 500
+
+    upperCircleStrip: 180
+    upperHammerStrip: 900
+    use_sim_time: false

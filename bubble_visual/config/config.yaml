@@ -1,0 +1,26 @@
+Visual:
+  ros__parameters:
+    hueMax: 32
+    hueMin: 0
+    saturationMax: 25
+    saturationMin: 0
+    valueMax: 255
+    valueMin: 152
+    contourAreaThreshold: 5.0
+    morphologyexIter: 1
+    debug_mode: true
+    grayThres: 60
+
+    lightStripAngleDiff: 7.0
+    lightStripSizeDiffRatio: 2.8
+
+    lightStripDisplacementDiffMax: 5.5
+    lightStripDisplacementDiffMin: 1.5
+    lowerArmourStrip: 100
+    lowerCircleStrip: 35
+    lowerHammerStrip: 1500
+
+    upperArmourStrip: 800
+    upperCircleStrip: 100
+    upperHammerStrip: 2000
+    use_sim_time: false
